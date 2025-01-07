@@ -1,5 +1,5 @@
-FROM ubuntu:bionic
-MAINTAINER Chilio
+FROM ubuntu:jammy
+MAINTAINER KimGrimm
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV DEBCONF_NONINTERACTIVE_SEEN true
